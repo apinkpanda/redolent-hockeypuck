@@ -7,5 +7,7 @@ public class display {
 			System.out.println("i");
 			
 		}
+		
+		System.out.println("commit or not");
 	}
 }
